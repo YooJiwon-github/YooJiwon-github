@@ -26,7 +26,20 @@
 </a>
 <br><br>
 
-<img src="https://github.com/YooJiwon-github/YooJiwon-github/blob/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A31D2E,10:BF4D28,30:993464,75:274A78,100:5E1F8E&height=100&section=footer&text=&fontSize=0" width="100%"/>
