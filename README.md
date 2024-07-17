@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A31D2E,10:BF4D28,30:993464,75:274A78,100:5E1F8E&height=150&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,10:9932CC,30:8A2BE2,75:FFC0CB,100:FF69B4&height=150&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center">
      <h2>🔧 Tech Skills</h2>
