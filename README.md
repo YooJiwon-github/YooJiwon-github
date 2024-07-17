@@ -42,4 +42,4 @@
 </picture>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,10:9932CC,30:8A2BE2,75:FFC0CB,100:FF69B4&height=150&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,10:9932CC,30:8A2BE2,75:FFC0CB,100:FF69B4&height=150&section=footer&text=&fontSize=0" width="100%"/>
